@@ -83,15 +83,9 @@ CXA was built for that — not for profit, not for hype, but for those who refus
 ---
 
 ## 🚀 Installation
-
-### ✅ Method 1: Pre-built Executable (Recommended)
-1. Go to [Releases](https://github.com/AdhamElsayed/cxa-crypto-system/releases)
-2. Download the `.exe` (Windows), binary (Linux), or app (macOS)
-3. **Verify checksums** before running!
-
-### 🧪 Method 2: From Source
+### 🧪 Method: From Source
 ```bash
-git clone https://github.com/AdhamElsayed/cxa-crypto-system.git
+git clone https://github.com/xvoidcrewx/cxa.git
 cd cxa-crypto-system
 pip install -r requirements.txt
 python run.py
