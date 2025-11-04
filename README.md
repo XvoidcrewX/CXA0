@@ -6,7 +6,7 @@
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/downloads/)
 [![Build Status](https://github.com/XvoidcrewX/CXA/actions/workflows/build-linux.yml/badge.svg)](https://github.com/XvoidcrewX/CXA/actions)
 [![Security](https://img.shields.io/badge/OpSec-Enforced-red)](docs/security.md)
-[![Donate ❤️](https://img.shields.io/badge/❤️%20Donate%20Now-blue?logo=paypal&logoColor=red)](#-support-future-development--keep-cxa-evolving-)
+[![Donate ❤️](https://img.shields.io/badge/❤️%20Donate%20Now-white?logo=paypal&logoColor=red)](#-support-future-development--keep-cxa-evolving-)
 
 ---
 
