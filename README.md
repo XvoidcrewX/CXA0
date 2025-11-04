@@ -189,7 +189,7 @@ Please follow the project’s OpSec principles: no telemetry, no convenience-ove
 ## 📄 License
 
 Distributed under the MIT License.  
-See [LICENSE.md](LICENSE.md) for details.
+See [LICENSE](LICENSE) for details.
 
 ⚖️ **No warranty. Use at your own risk.**
 
