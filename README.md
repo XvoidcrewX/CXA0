@@ -6,7 +6,7 @@
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/downloads/)
 [![Build Status](https://github.com/AdhamElsayed/cxa-crypto-system/actions/workflows/build.yml/badge.svg)](https://github.com/user/cxa-crypto-system/actions)
 ![Lines of code](https://tokei.rs/b1/github/<xvoidcrewx>/<cxa>?category=code)
-[![Security](https://img.shields.io/badge/OpSec-Enforced-red)](security.md)
+[![Security](https://img.shields.io/badge/OpSec-Enforced-red)](docs/security.md)
 
 ---
 
@@ -174,6 +174,8 @@ Your support ensures that future releases stay open-source, independent, and tec
 
 BITCOIN:
 ```bc1qk7hp6vxa5sd00sw3ma7la0cj7fdpkflvjrwq9g```
+
+
 MONERO:
 ```42uEgsLYHHgXwDdcs991anU12CZpS9m2dCAgtqw1MR9T4Hjs3CReQnJar8x1D1LjUAaWP5hAH77j9bXX3nJUxbXaE6GGvqD```
 
