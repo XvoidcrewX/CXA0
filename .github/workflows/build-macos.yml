@@ -1,4 +1,4 @@
-name: Build Linux Executable
+name: Build macOS Executable
 
 on:
   push:
@@ -8,50 +8,43 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
       
-    - name: Install Python 3.10 system-wide
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y software-properties-common
-        sudo add-apt-repository -y ppa:deadsnakes/ppa
-        sudo apt-get update
-        sudo apt-get install -y python3.10 python3.10-dev python3.10-venv python3.10-distutils
-        
     - name: Set up Python 3.10
-      run: |
-        python3.10 --version
-        python3.10 -m pip install --upgrade pip
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
         
     - name: Install system dependencies
       run: |
-        sudo apt-get install -y build-essential libjpeg-dev zlib1g-dev
+        brew install libjpeg zlib
         
-    - name: Install Python dependencies with Python 3.10
+    - name: Install Python dependencies
       run: |
-        python3.10 -m pip install cryptography>=41.0.0
-        python3.10 -m pip install numpy>=1.21.0
-        python3.10 -m pip install Pillow>=9.0.0
-        python3.10 -m pip install PyWavelets>=1.1.0
-        python3.10 -m pip install zstandard>=0.15.0
-        python3.10 -m pip install psutil>=5.8.0
-        python3.10 -m pip install keyring>=23.0.0
-        python3.10 -m pip install reedsolo>=1.7.0
-        python3.10 -m pip install secretsharing>=0.2.7
-        python3.10 -m pip install pycryptodome>=3.10.0
-        python3.10 -m pip install cffi>=1.15.0
-        python3.10 -m pip install pyinstaller
+        python -m pip install --upgrade pip
+        pip install cryptography>=41.0.0
+        pip install numpy>=1.21.0
+        pip install Pillow>=9.0.0
+        pip install PyWavelets>=1.1.0
+        pip install zstandard>=0.15.0
+        pip install psutil>=5.8.0
+        pip install keyring>=23.0.0
+        pip install reedsolo>=1.7.0
+        pip install secretsharing>=0.2.7
+        pip install pycryptodome>=3.10.0
+        pip install cffi>=1.15.0
+        pip install pyinstaller
         
-    - name: Build executable with Python 3.10
+    - name: Build executable
       run: |
-        python3.10 -m PyInstaller --onefile --name="CXA" --icon=assests/icon.png src/main.py
+        pyinstaller --onefile --name="CXA" --icon="assets/icon.icns" src/main.py
         
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
-        name: CXA
+        name: CXA-Crypto-System-macOS
         path: dist/CXA
