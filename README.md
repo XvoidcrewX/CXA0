@@ -207,7 +207,7 @@ See [LICENSE](LICENSE) for details.
 - 🐞 **Bugs**: Open an Issue  
 - 💬 **Questions**: Discussions  
 - 🚨 **Security Vulnerabilities**: DO NOT POST PUBLICLY  
-  → Contact via secure,(PGP preferred)
+  → Contact via secure,(PGP preferred) in (contacts.md)
 
 ---
 
