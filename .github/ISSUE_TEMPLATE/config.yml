@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📢 Feature Request
+    url: https://github.com/XvoidcrewX/CXA/issues/new?template=feature_request.md
+    about: Suggest new functionality or enhancements.
+  - name: 🐛 Bug Report
+    url: https://github.com/XvoidcrewX/CXA/issues/new?template=bug_report.md
+    about: Report an error or malfunction in the system.
+  - name: 🔐 Security Report
+    url: https://github.com/XvoidcrewX/CXA/issues/new?template=security.md
+    about: Report a vulnerability or security issue responsibly.
