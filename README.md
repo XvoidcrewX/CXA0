@@ -2,11 +2,11 @@
 
 > **Advanced, OpSec-conscious cryptographic toolkit for data protection, steganography, and secure key management.**
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/downloads/)
 [![Build Status](https://github.com/AdhamElsayed/cxa-crypto-system/actions/workflows/build.yml/badge.svg)](https://github.com/user/cxa-crypto-system/actions)
-![Lines of code](https://tokei.rs/b1/github/<username>/<repo>?category=code)
-[![Security](https://img.shields.io/badge/OpSec-Enforced-red)](#security)
+![Lines of code](https://tokei.rs/b1/github/<xvoidcrewx>/<cxa>?category=code)
+[![Security](https://img.shields.io/badge/OpSec-Enforced-red)](security)
 
 ---
 
