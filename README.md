@@ -78,7 +78,7 @@ CXA was built for that — not for profit, not for hype, but for those who refus
 | Component       | Minimum                     |
 |-----------------|-----------------------------|
 | **OS**          | Windows 10/11, Linux, macOS |
-| **Python**      | 3.8+                        |
+| **Python**      | 3.10+                        |
 
 > 💡 **Note**: Python must be installed with Tkinter support for GUI interface
 
@@ -207,7 +207,7 @@ See [LICENSE](LICENSE) for details.
 - 🐞 **Bugs**: Open an Issue  
 - 💬 **Questions**: Discussions  
 - 🚨 **Security Vulnerabilities**: DO NOT POST PUBLICLY  
-  → Contact via secure,(PGP preferred) in (contacts.md)
+  → Contact via secure,(PGP preferred) in [contacts.md](https://github.com/XvoidcrewX/CXA/blob/main/author%26contact/contacts.md)
 
 ---
 
