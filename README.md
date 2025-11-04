@@ -4,8 +4,10 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/downloads/)
-[![Build Status](https://github.com/XvoidcrewX/CXA/actions/workflows/badge.svg)](https://github.com/XvoidcrewX/CXA/actions)
 [![Security](https://img.shields.io/badge/OpSec-Security-red)](docs/security.md)
+[![Build Status](https://github.com/XvoidcrewX/CXA/actions/workflows/build-linux.yml/badge.svg)](https://github.com/XvoidcrewX/CXA/actions)
+[![Build Status](https://github.com/XvoidcrewX/CXA/actions/workflows/build-macos.yml/badge.svg)](https://github.com/XvoidcrewX/CXA/actions)
+[![Build Status](https://github.com/XvoidcrewX/CXA/actions/workflows/build-windows.yml/badge.svg)](https://github.com/XvoidcrewX/CXA/actions)
 
 ---
 
