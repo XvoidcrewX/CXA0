@@ -12,25 +12,34 @@ jobs:
     
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       
-    - name: Set up Python
+    - name: Set up Python 3.10
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'
+        python-version: '3.10'
         
-    - name: Install dependencies
+    - name: Install Python dependencies
       run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
+        pip install cryptography>=41.0.0
+        pip install numpy>=1.21.0
+        pip install Pillow>=9.0.0
+        pip install PyWavelets>=1.1.0
+        pip install zstandard>=0.15.0
+        pip install psutil>=5.8.0
+        pip install keyring>=23.0.0
+        pip install reedsolo>=1.7.0
+        pip install secretsharing>=0.2.7
+        pip install pycryptodome>=3.10.0
+        pip install cffi>=1.15.0
         pip install pyinstaller
         
     - name: Build executable
       run: |
-        pyinstaller --onefile --name="CXA" --add-data="*.py;." --windowed --icon="assets/icon.ico" main.py
+        pyinstaller --onefile --name="CXA" --icon="assets/icon.ico" src/main.py
         
     - name: Upload artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: CXA-Crypto-System-Windows
         path: dist/CXA.exe
