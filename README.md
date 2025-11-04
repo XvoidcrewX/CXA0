@@ -63,10 +63,10 @@ CXA was built for that — not for profit, not for hype, but for those who refus
 ## 📋 Table of Contents
 - [System Requirements](#-system-requirements)
 - [Installation](#-installation)
-- [Usage](#-usage)
+- [Usage](#usage)
 - [Security & OpSec](#-security--opsec)
 - [Building from Source](#-building-from-source)
-- [Donate](#-donate)
+- [Donate](#donate--support-future-development--keep-cxa-evolving-)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Support](#-support)
