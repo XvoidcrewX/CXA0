@@ -212,7 +212,7 @@ See [LICENSE](LICENSE) for details.
 ---
 
 🔐 Built for those who operate in the shadows — and prefer to stay there.  
-Version: 1.0.0 | Last Updated: 2025-11-01
+Version: 1.0.0 | Last Updated: 2025-11-04
 
 ---
 
