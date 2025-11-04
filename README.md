@@ -6,7 +6,7 @@
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/downloads/)
 [![Build Status](https://github.com/XvoidcrewX/CXA/actions/workflows/build-linux.yml/badge.svg)](https://github.com/XvoidcrewX/CXA/actions)
 [![Security](https://img.shields.io/badge/OpSec-Enforced-red)](docs/security.md)
-[![Donate ❤️](https://img.shields.io/badge/Support%20Project-❤️%20Donate%20Now-red?logo=heart&logoColor=white)](#-support-future-development--keep-cxa-evolving-)
+[![Donate ❤️](https://img.shields.io/badge/Support%20Project-❤️%20Donate%20Now-green?logo=heart&logoColor=white)](#-support-future-development--keep-cxa-evolving-)
 ---
 
 ## 🔐 Overview
@@ -162,7 +162,7 @@ chmod +x build-macos.sh
 
 ---
 
-## 🧠 Support Future Development — Keep CXA Evolving 🔐
+## 🧠&❤️ Support Future Development — Keep CXA Evolving 🔐
 
 CXA is built to grow stronger each year, with continuous upgrades in cryptography, security, and OpSec tooling — without sponsors or corporate backing.
 Your support ensures that future releases stay open-source, independent, and technically advanced.
