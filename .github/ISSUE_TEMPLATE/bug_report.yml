@@ -1,30 +1,51 @@
 name: "🐛 Bug Report"
-about: Report something that's not working
+description: "Report something that's not working properly."
 title: "[BUG] "
-labels: 
-assignees: ''
+labels: ["bug"]
+assignees: []
 
----
+body:
+  - type: textarea
+    id: bug_description
+    attributes:
+      label: "🐛 Describe the Bug"
+      description: "A clear and concise description of what the bug is."
+      placeholder: "Example: App crashes when opening the settings menu."
+    validations:
+      required: true
 
-## 🐛 Describe the Bug
-A clear and concise description of what the bug is.
+  - type: textarea
+    id: steps
+    attributes:
+      label: "🔄 Steps to Reproduce"
+      description: "Explain exactly how to reproduce the issue."
+      placeholder: |
+        1. Go to '...'
+        2. Click on '...'
+        3. Scroll down to '...'
+        4. See error
+    validations:
+      required: true
 
-## 🔄 Steps to Reproduce
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+  - type: textarea
+    id: expected
+    attributes:
+      label: "✅ Expected Behavior"
+      description: "What should have happened instead?"
+      placeholder: "It should have displayed the correct output."
 
-## ✅ Expected Behavior
-What should have happened?
+  - type: textarea
+    id: environment
+    attributes:
+      label: "💻 Environment"
+      description: "Provide details about your system."
+      placeholder: |
+        - OS: Windows 11 / Linux / macOS
+        - CXA Version: 1.0.0
+        - Installation Method: Executable / Source
 
-## 📸 Screenshots
-If applicable, add screenshots to help explain your problem.
-
-## 💻 Environment
-- **OS:** [e.g. Windows 11, Linux, macOS]
-- **CXA Version:** [e.g. 1.0.0]
-- **Installation Method:** [e.g. Executable, Source]
-
-## 📝 Additional Context
-Add any other context about the problem here.
+  - type: textarea
+    id: extra
+    attributes:
+      label: "📝 Additional Context"
+      description: "Add screenshots or any other context if relevant."
