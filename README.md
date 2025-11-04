@@ -6,7 +6,7 @@
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/downloads/)
 [![Build Status](https://github.com/XvoidcrewX/CXA/actions/workflows/build-linux.yml/badge.svg)](https://github.com/XvoidcrewX/CXA/actions)
 [![Security](https://img.shields.io/badge/OpSec-Security-red)](docs/security.md)
-[![Lines of Code](https://img.shields.io/tokei/lines/github/XvoidcrewX/CXA?label=Lines%20of%20Code&color=blue)](#)
+[![Lines of Code](https://img.shields.io/badge/dynamic/json?url=https://api.tokei.rs/v1/github/XvoidcrewX/CXA/main&label=Lines%20of%20Code&query=%.total.code&color=blue&suffix=%20LoC)]()
 
 ---
 
