@@ -1,0 +1,37 @@
+name: "💡 Feature Request"
+description: "Suggest a new idea or improvement for CXA."
+title: "[FEATURE] "
+labels: ["enhancement"]
+assignees: []
+
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: "💡 Is your feature request related to a problem?"
+      description: "Describe the problem that your feature would solve."
+      placeholder: "Example: The tool currently lacks dark mode."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: "🚀 Describe the Solution"
+      description: "Explain your proposed solution clearly."
+      placeholder: "Add an option in settings to toggle dark mode."
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: "🔄 Describe Alternatives"
+      description: "List any alternative solutions you have considered."
+      placeholder: "Use a browser extension or CSS override."
+
+  - type: textarea
+    id: context
+    attributes:
+      label: "📚 Additional Context"
+      description: "Add any other context, screenshots, or references."
