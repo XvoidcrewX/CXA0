@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "build_date": "2025-11-01",
+  "release_notes": "Security Edition",
+  "min_python_version": "3.8",
+  "dependencies": {
+    "cryptography": ">=41.0.0",
+    "numpy": ">=1.21.0",
+    "Pillow": ">=9.0.0",
+    "psutil": ">=5.8.0",
+    "keyring": ">=23.0.0"
+  },
+  "security_level": "ULTRA",
+  "features": [
+    "Military-grade encryption",
+    "steganography",
+    "Secure memory protection",
+    "Threat intelligence",
+    "Anti-analysis mechanisms",
+    "Secure data erasure"
+  ],
+  "compatibility": {
+    "windows": true,
+    "linux": true,
+    "macos": true
+  },
+  "update_policy": "manual",
+  "repository": "https://github.com/your-repo/cxa-crypto-system"
+}
