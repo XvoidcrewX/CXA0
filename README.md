@@ -169,11 +169,16 @@ CXA is built to grow stronger each year, with continuous upgrades in cryptograph
 Your support ensures that future releases stay open-source, independent, and technically advanced.
 
 BITCOIN:
-```bc1qk7hp6vxa5sd00sw3ma7la0cj7fdpkflvjrwq9g```
+```bash
+bc1qk7hp6vxa5sd00sw3ma7la0cj7fdpkflvjrwq9g
+```
+
 
 
 MONERO:
-```42uEgsLYHHgXwDdcs991anU12CZpS9m2dCAgtqw1MR9T4Hjs3CReQnJar8x1D1LjUAaWP5hAH77j9bXX3nJUxbXaE6GGvqD```
+```bash
+42uEgsLYHHgXwDdcs991anU12CZpS9m2dCAgtqw1MR9T4Hjs3CReQnJar8x1D1LjUAaWP5hAH77j9bXX3nJUxbXaE6GGvqD
+```
 
 ☕ Buy me a coffee... or a cold beer 🍺 — every sip funds the next evolution.
 
