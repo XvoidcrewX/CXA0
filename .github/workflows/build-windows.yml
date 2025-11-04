@@ -36,7 +36,7 @@ jobs:
         
     - name: Build executable
       run: |
-        pyinstaller --onefile --name="CXA" --icon="assets/icon.ico" src/main.py
+        pyinstaller --onefile --name="CXA" --icon="assests/icon.ico" src/main.py
         
     - name: Upload artifact
       uses: actions/upload-artifact@v4
