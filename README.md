@@ -164,8 +164,7 @@ chmod +x build-macos.sh
 
 ---
 
-# Donate
-## 🧠&❤️ Support Future Development — Keep CXA Evolving 🔐
+## Donate 🧠&❤️ Support Future Development — Keep CXA Evolving 🔐
 
 CXA is built to grow stronger each year, with continuous upgrades in cryptography, security, and OpSec tooling — without sponsors or corporate backing.
 Your support ensures that future releases stay open-source, independent, and technically advanced.
