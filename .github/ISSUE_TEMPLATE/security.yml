@@ -1,0 +1,22 @@
+name: "🔒 Security Issue"
+description: "Report a potential security vulnerability."
+title: "[SECURITY] "
+labels: ["security"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🚨 DO NOT POST SECURITY ISSUES PUBLICLY
+        Please send security-related reports privately.
+
+        **Send security issues to:**  
+        Contact via [SESSION], [MAIL], or [TOX] listed in `contacts.md`
+
+  - type: textarea
+    id: vulnerability
+    attributes:
+      label: "🔍 Vulnerability Description"
+      description: "Provide a short summary of the potential issue."
+      placeholder: "Describe the vulnerability privately using one of the secure contact methods above."
