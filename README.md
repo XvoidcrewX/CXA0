@@ -4,7 +4,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/downloads/)
-[![Build Status](https://github.com/AdhamElsayed/cxa-crypto-system/actions/workflows/build.yml/badge.svg)](https://github.com/user/cxa-crypto-system/actions)
+[![Build Status](https://github.com/XvoidcrewX/CXA/actions/workflows/build.yml/badge.svg)](https://github.com/XvoidcrewX/CXA/actions)
 ![Lines of code](https://tokei.rs/b1/github/<xvoidcrewx>/<cxa>?category=code)
 [![Security](https://img.shields.io/badge/OpSec-Enforced-red)](docs/security.md)
 
