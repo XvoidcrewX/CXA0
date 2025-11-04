@@ -2648,7 +2648,7 @@ Developed for maximum security and operational safety."""
         update_frame = ttk.LabelFrame(settings_frame, text="Update Policy")
         update_frame.pack(fill=tk.X, padx=10, pady=5)
         
-        policy_text = """Created: 2025-11-1 — Repo: https://github.com/
+        policy_text = """Created: 2025-11-4 — Repo: https://github.com/
 Automatic execution disabled. Manual verified updates only.
 Every year from the date of establishment there is an update
 
