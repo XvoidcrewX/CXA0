@@ -1,11 +1,10 @@
-# 🛡️ CXA Cryptographic System
+ 🛡️ CXA Cryptographic System
 
 > **Advanced, OpSec-conscious cryptographic toolkit for data protection, steganography, and secure key management.**
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/downloads/)
 [![Build Status](https://github.com/XvoidcrewX/CXA/actions/workflows/build-linux.yml/badge.svg)](https://github.com/XvoidcrewX/CXA/actions)
-![Lines of code](https://tokei.rs/b1/github/XvoidcrewX/CXA?category=code)
 [![Security](https://img.shields.io/badge/OpSec-Enforced-red)](docs/security.md)
 
 ---
