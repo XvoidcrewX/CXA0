@@ -87,7 +87,7 @@ CXA was built for that — not for profit, not for hype, but for those who refus
 ## 🚀 Installation
 ### 🧪 Method: From Source
 ```bash
-git clone https://github.com/XvoidcrewX/CXA.git
+https://github.com/XvoidcrewX/CXA.git
 cd CXA
 python -m venv venv
 python -m pip install --upgrade pip
