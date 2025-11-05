@@ -150,8 +150,8 @@ build.bat
 
 **Linux**
 ```bash
-chmod +x build.sh
-./build.sh
+chmod +x build_linux.sh
+./build_linux.sh
 ```
 
 **macOS**
