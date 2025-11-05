@@ -15,7 +15,7 @@ pip install --upgrade pip
 pip install -r requirements.txt
 pip install pyinstaller
 
-pyinstaller --onefile --name="CXA" --add-data="*.py;." --windowed --icon="assests/icon.ico" build_scripts/main.py
+pyinstaller --onefile --name="CXA" --add-data="*.py;." --windowed --icon="assests/icon.ico" src/main.py
 
 deactivate
 rd /s /q build_env
