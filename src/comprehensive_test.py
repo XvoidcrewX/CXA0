@@ -1,4 +1,4 @@
-# CXA Cryptographic System - Complete Test Suite Tests all system components and security features
+# CXA - Complete Test Suite Tests all system
 
 import unittest
 import tempfile
