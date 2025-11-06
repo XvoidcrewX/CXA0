@@ -9,11 +9,11 @@ class Config:
     BUILD_DATE = "2025-11-04"
     
     SECURITY_SETTINGS = {
-        "min_password_length": 12,
+        "min_password_length": 9,
         "max_key_age_days": 365,
         "auto_backup_interval": 24,
-        "max_login_attempts": 3,
-        "session_timeout": 1800
+        "max_login_attempts": 10,
+        "session_timeout": 900
     }
     
     CRYPTO_SETTINGS = {
@@ -32,7 +32,7 @@ class Config:
     
     LOGGING_SETTINGS = {
         "log_level": "INFO",
-        "max_log_size_mb": 10,
+        "max_log_size_mb": 0,
         "backup_count": 5,
         "audit_log_enabled": True
     }
