@@ -5,16 +5,22 @@ if ! command -v python3 &> /dev/null; then
     exit 1
 fi
 
-python3 -m venv build_env
-source build_env/bin/activate
+brew install libjpeg zlib
 
-pip install --upgrade pip
-pip install -r requirements.txt
+python3 -m pip install --upgrade pip
+pip install cryptography>=41.0.0
+pip install numpy>=1.21.0
+pip install Pillow>=9.0.0
+pip install PyWavelets>=1.1.0
+pip install zstandard>=0.15.0
+pip install psutil>=5.8.0
+pip install keyring>=23.0.0
+pip install reedsolo>=1.7.0
+pip install secretsharing>=0.2.7
+pip install pycryptodome>=3.10.0
+pip install cffi>=1.15.0
 pip install pyinstaller
 
-pyinstaller --onefile --name="CXA" --add-data="*.py:." --windowed --icon="assests/icon.icns" src/main.py
-
-deactivate
-rm -rf build_env
+pyinstaller --onefile --name="CXA" --icon="assests/icon.icns" src/main.py
 
 echo "Build complete. Executable: dist/CXA"
