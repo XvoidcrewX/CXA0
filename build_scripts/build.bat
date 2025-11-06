@@ -1,5 +1,5 @@
 @echo off
-echo Building CXA Cryptographic System for Windows...
+echo Building CXA for Windows...
 
 python --version >nul 2>&1
 if errorlevel 1 (
