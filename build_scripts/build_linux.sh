@@ -21,6 +21,6 @@ python3.10 -m pip install pycryptodome>=3.10.0
 python3.10 -m pip install cffi>=1.15.0
 python3.10 -m pip install pyinstaller
 
-python3.10 -m PyInstaller --onefile --name="CXA" --icon="assests/icon.png" src/main.py
+python3.10 -m PyInstaller --onefile --name="CXA" --icon="assets/icon.png" src/main.py
 
 echo "Build complete. Executable: dist/CXA"
