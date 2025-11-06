@@ -12,6 +12,11 @@
 
 ---
 
+Don't forget to read this because it will probably completely change your mind about the project:
+[BANNER OF PROJECT](https://github.com/XvoidcrewX/CXA/blob/main/docs/announcement.md)
+
+---
+
 ## 🔐 Overview
 
 CXA is a **zero-trust**, **audit-ready** cryptographic application designed for users who demand **maximum confidentiality** and **operational security**. It integrates awesome-grade encryption, steganography, digital signatures, and tamper-resistant key management — all within a secure-by-default architecture.
