@@ -54,7 +54,7 @@ CXA was built for that — not for profit, not for hype, but for those who refus
 
 HOW TO GET IT
 
-Source + builds: http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/cxa-crypto-system
+Source: https://github.com/XvoidcrewX/CXA/
 
 Always verify SHA256 checksums before running.
 Always read the code — especially main.py and comprehensive_test.py. If something feels off, don't run it.
