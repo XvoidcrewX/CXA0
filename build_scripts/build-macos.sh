@@ -1,4 +1,4 @@
-echo "Building CXA Cryptographic System for macOS..."
+echo "Building CXA for macOS..."
 
 if ! command -v python3 &> /dev/null; then
     echo "Python 3 is required but not installed."
