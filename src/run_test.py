@@ -1,4 +1,4 @@
-#CXA Crypto System - Test Runner One-click test execution with detailed reporting
+#CXA - Test Runner One-click test execution with detailed reporting
 
 import sys
 import os
