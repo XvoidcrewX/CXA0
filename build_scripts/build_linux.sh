@@ -1,4 +1,4 @@
-echo "Building CXA Cryptographic System for Linux..."
+echo "Building CXA for Linux..."
 
 sudo apt-get update
 sudo apt-get install -y software-properties-common
