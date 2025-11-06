@@ -48,7 +48,7 @@ jobs:
         
     - name: Build executable with Python 3.10
       run: |
-        python3.10 -m PyInstaller --onefile --name="CXA" --icon=assests/icon.png src/main.py
+        python3.10 -m PyInstaller --onefile --name="CXA" --icon=assets/icon.png src/main.py
         
     - name: Upload artifact
       uses: actions/upload-artifact@v4
