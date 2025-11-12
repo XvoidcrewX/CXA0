@@ -5,15 +5,15 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/downloads/)
 [![Security](https://img.shields.io/badge/OpSec-Security-red)](docs/security.md)
-[![Build Status](https://github.com/XvoidcrewX/CXA/actions/workflows/build-linux.yml/badge.svg)](https://github.com/XvoidcrewX/CXA/actions/runs/19082993655)
-[![Build Status](https://github.com/XvoidcrewX/CXA/actions/workflows/build-macos.yml/badge.svg)](https://github.com/XvoidcrewX/CXA/actions/runs/19083091137)
-[![Build Status](https://github.com/XvoidcrewX/CXA/actions/workflows/build-windows.yml/badge.svg)](https://github.com/XvoidcrewX/CXA/actions/runs/19083391266)
-[![CXA BANNER](https://github.com/XvoidcrewX/CXA/blob/main/docs/announcement.md)
+[![Build Status](https://github.com/XvoidcrewX/CXA0/actions/workflows/build-linux.yml/badge.svg)](https://github.com/XvoidcrewX/CXA/actions/runs/19082993655)
+[![Build Status](https://github.com/XvoidcrewX/CXA0/actions/workflows/build-macos.yml/badge.svg)](https://github.com/XvoidcrewX/CXA/actions/runs/19083091137)
+[![Build Status](https://github.com/XvoidcrewX/CXA0/actions/workflows/build-windows.yml/badge.svg)](https://github.com/XvoidcrewX/CXA/actions/runs/19083391266)
+[![CXA BANNER](https://github.com/XvoidcrewX/CXA0/blob/main/docs/announcement.md)
 
 ---
 
 Don't forget to read this because it will probably completely change your mind about the project:
-[BANNER OF PROJECT](https://github.com/XvoidcrewX/CXA/blob/main/docs/announcement.md)
+[BANNER OF PROJECT](https://github.com/XvoidcrewX/CXA0/blob/main/docs/announcement.md)
 
 ---
 
