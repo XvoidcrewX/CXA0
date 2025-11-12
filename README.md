@@ -2,7 +2,7 @@
 
 > **Advanced, OpSec-conscious cryptographic toolkit for data protection, steganography, and secure key management.**
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-FF1900.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/downloads/)
 [![Security](https://img.shields.io/badge/OpSec-Security-red)](docs/security.md)
 [![Build Status](https://github.com/XvoidcrewX/CXA0/actions/workflows/build-linux.yml/badge.svg)](https://github.com/XvoidcrewX/CXA/actions/runs/19082993655)
