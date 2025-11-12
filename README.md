@@ -13,7 +13,7 @@
 ---
 
 Don't forget to read this because it will probably completely change your mind about the project:
-[BANNER OF PROJECT](https://github.com/XvoidcrewX/CXA0/blob/main/docs/announcement.md)
+[BANNER OF PROJECT](https://github.com/XvoidcrewX/CXA/blob/main/docs/announcement.md)
 
 ---
 
