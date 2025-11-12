@@ -8,7 +8,7 @@
 [![Build Status](https://github.com/XvoidcrewX/CXA0/actions/workflows/build-linux.yml/badge.svg)](https://github.com/XvoidcrewX/CXA/actions/runs/19082993655)
 [![Build Status](https://github.com/XvoidcrewX/CXA0/actions/workflows/build-macos.yml/badge.svg)](https://github.com/XvoidcrewX/CXA/actions/runs/19083091137)
 [![Build Status](https://github.com/XvoidcrewX/CXA0/actions/workflows/build-windows.yml/badge.svg)](https://github.com/XvoidcrewX/CXA/actions/runs/19083391266)
-
+[![CXA BANNER](https://img.shields.io/badge/BANNER-FF69B4.svg)](docs/announcement.md)
 
 ---
 
